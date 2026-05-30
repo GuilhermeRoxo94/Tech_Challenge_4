@@ -101,10 +101,3 @@ python -m streamlit run app.py
 - **Notebooks (EDA e modelagem):** além dos acima, são necessários `scikit-learn`, `numpy`, `joblib`, `matplotlib` e `seaborn`.
 
 ---
-
-## 🔗 Entregáveis
-
-- **Aplicação preditiva (Streamlit):** _adicionar link_
-- **Painel analítico (Streamlit):** _adicionar link_
-- **Repositório GitHub:** _adicionar link_
-- **Vídeo de apresentação (4–10 min):** _adicionar link_
